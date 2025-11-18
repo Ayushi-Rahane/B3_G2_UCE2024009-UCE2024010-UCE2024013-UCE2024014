@@ -192,9 +192,11 @@ source venv/bin/activate
 pip install -r requirements.txt
 python backend/app.py
 
-## ▶️ **Run the App**
 
-```bash
+
+```
+---
+## ▶️ **Run the App**
 python backend/app.py
 
 ## ▶️ **Run the App**: 👉 http://127.0.0.1:5000/
